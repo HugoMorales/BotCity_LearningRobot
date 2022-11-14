@@ -1,0 +1,8 @@
+{
+  "name": "DesktopBot_two",
+  "sourceDirPath": "/DesktopBot_two/",
+  "resourceDirPath": "/DesktopBot_two/resources/",
+  "sourceDirRelative": true,
+  "resourceDirRelative": true,
+  "botId": "DesktopBot_two"
+}
